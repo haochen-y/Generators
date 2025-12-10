@@ -1,3 +1,7 @@
 [submodule "DeOldify"]
 	path = DeOldify
 	url = https://github.com/jantic/DeOldify.git
+
+[submodule "DDColor"]
+	path = DDColor
+	url = https://github.com/piddnad/DDColor.git
