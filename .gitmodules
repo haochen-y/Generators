@@ -1,0 +1,3 @@
+[submodule "DeOldify"]
+	path = DeOldify
+	url = https://github.com/jantic/DeOldify.git
